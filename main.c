@@ -3,7 +3,7 @@
 int main(){
 	
 	
-printf("Salve");
+printf("Salve galeros");
 	
 	
 	
